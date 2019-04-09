@@ -1,2 +1,0 @@
-# egyszamjatek
-asd
