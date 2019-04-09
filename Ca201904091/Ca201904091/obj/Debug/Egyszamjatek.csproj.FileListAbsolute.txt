@@ -1,0 +1,7 @@
+c:\users\beardedbearbro\source\repos\Ca201904091\Ca201904091\bin\Debug\Ca201904091.exe.config
+c:\users\beardedbearbro\source\repos\Ca201904091\Ca201904091\bin\Debug\Ca201904091.exe
+c:\users\beardedbearbro\source\repos\Ca201904091\Ca201904091\bin\Debug\Ca201904091.pdb
+c:\users\beardedbearbro\source\repos\Ca201904091\Ca201904091\obj\Debug\Egyszamjatek.csprojAssemblyReference.cache
+c:\users\beardedbearbro\source\repos\Ca201904091\Ca201904091\obj\Debug\Egyszamjatek.csproj.CoreCompileInputs.cache
+c:\users\beardedbearbro\source\repos\Ca201904091\Ca201904091\obj\Debug\Ca201904091.exe
+c:\users\beardedbearbro\source\repos\Ca201904091\Ca201904091\obj\Debug\Ca201904091.pdb
